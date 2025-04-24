@@ -1,5 +1,5 @@
 
-# Dynamics, Networks and Computation – Course Project
+# Dynamics, Networks and Computation course
 
 This repository contains my assignments in the course Dynamics, Networks and Computation:
 
